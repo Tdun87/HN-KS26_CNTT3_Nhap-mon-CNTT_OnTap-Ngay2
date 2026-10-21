@@ -4,7 +4,7 @@
 
 - **Họ tên: Nguyễn Tiến Dũng**
 - **Lớp: HN-KS26_CNTT3**
-- **Link repository:**
+- **Link repository:** https://github.com/Tdun87/HN-KS26_CNTT3_Nhap-mon-CNTT_OnTap-Ngay2
 - **Hệ điều hành (Windows/macOS): Windows**
 
 ## Bài 1. Lọc log thủ công
